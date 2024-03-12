@@ -1,0 +1,19 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÇÓ¨÷8ôäÊÍá1
+¨
+java:S1130"…Remove the declaration of thrown exception 'swed.itacademy.project.UnknownShapeException', as it cannot be thrown from method's body.(‰’˜ªûÿÿÿÿ8º¶¶Íá1
+L	java:S106"+Replace this use of System.out by a logger.(çà†Öùÿÿÿÿ8å–›Íá1
+L	java:S106"+Replace this use of System.out by a logger.(ğ–ïãûÿÿÿÿ8å–›Íá1
+G	java:S106"+Replace this use of System.out by a logger.(İ¾¿È8å–›Íá1
+L	java:S106"+Replace this use of System.out by a logger.(÷å‚™úÿÿÿÿ8å–›Íá1
+;
+java:S6205'"Remove this redundant "break".(›ûä·8ç–›Íá1
+G	java:S106%"+Replace this use of System.out by a logger.(Õ†Ìı8ç–›Íá1
+;
+java:S6205."Remove this redundant "break".(›ûä·8è–›Íá1
+L	java:S106+"+Replace this use of System.out by a logger.(ÆÀß‡üÿÿÿÿ8è–›Íá1
+;
+java:S62054"Remove this redundant "break".(›ûä·8è–›Íá1
+G	java:S1062"+Replace this use of System.out by a logger.(üˆ®Â8é–›Íá1
+L	java:S106A"+Replace this use of System.out by a logger.(Å÷Ø”úÿÿÿÿ8ê–›Íá1
